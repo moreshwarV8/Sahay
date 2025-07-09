@@ -68,4 +68,4 @@ Sahay ensures that help is always at hand with round-the-clock AI-driven assista
 
 ## Remarks
 - Contributions are welcome! Please fork the repository and submit pull requests for any features, enhancements, or bug fixes.
-- For questions or support, please contact [chhabadadev@gmail.com](mailto:chhabadadev@gmail.com).
+- For questions or support, please contact [vanmaremd@gmail.com](mailto:vanmaremd@gmail.com).
