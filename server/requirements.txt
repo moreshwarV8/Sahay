@@ -1,0 +1,14 @@
+Flask
+flask-cors
+PyPDF2
+openai
+numpy
+sentence-transformers
+scikit-learn
+requests
+beautifulsoup4
+pandas
+datetime
+time
+re
+google-generativeai
